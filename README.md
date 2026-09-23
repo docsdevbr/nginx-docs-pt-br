@@ -1,43 +1,67 @@
-# [ nginx-doc-pt-br][portal-link]
+# [nginx-docs-pt-br][page]
 
-[![Arquivo README em inglês][readme-badge-en]][readme-lang-en]
-[![Arquivo README em português brasileiro][readme-badge-pt-br]][readme-lang-pt-br]
+[![Arquivo README em inglês][badge-readme-en]][readme-en]
+[![Arquivo README em português brasileiro][badge-readme-pt-br]][readme-pt-br]
 [![Licença: BSD-2-Clause][badge-license]][license]
 [![Status do REUSE][badge-reuse]][reuse]
+[![Pessoas contribuidoras][badge-contributors]][contributors]
+[![GitHub Sponsors][badge-github-sponsors]][github-sponsors]
 
-Tradução da Documentação do NGINX para português brasileiro.
+Tradução da documentação do NGINX para português brasileiro.
+
+## Contribuindo
+
+Contribuições são bem-vindas!
+Leia nosso [Guia de Contribuição][contributing] para saber como você pode ajudar
+com traduções, revisões e melhorias.
+
+## Código de Conduta
+
+Temos o comprometimento de fornecer uma comunidade acolhedora.
+Leia nosso [Código de Conduta][code-of-conduct] para entender nossos padrões de
+comunidade.
 
 ## Apoio
 
-Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
-[Pix][sponsor-pix].
+Visite nossa [página para pessoas apoiadoras][sponsor] para saber como você pode
+apoiar o projeto.
 
 ## Licença
 
-Copyright (c) 2002-2021 Igor Sysoev.<br>
+Copyright (c) 2002-2021 Igor Sysoev.<br/>
 Copyright (c) 2011-2026 Nginx, Inc. Todos os direitos reservados.
 
-Documentação licenciada sob a [Licença BSD de 2 Cláusulas][license-bsd].<br>
+Documentação licenciada sob a [Licença BSD de 2 Cláusulas][license].<br/>
 A obra original foi traduzida do inglês para o português brasileiro.
+
+[badge-contributors]: https://img.shields.io/github/contributors/docsdevbr/nginx-docs-pt-br
+
+[badge-github-sponsors]: https://img.shields.io/github/sponsors/docsdevbr
 
 [badge-license]: https://img.shields.io/badge/license-BSD--2--Clause-blue
 
+[badge-readme-en]: https://img.shields.io/badge/lang-en-blue
+
+[badge-readme-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green
+
 [badge-reuse]: https://api.reuse.software/badge/github.com/docsdevbr/nginx-docs-pt-br
+
+[code-of-conduct]: https://github.com/docsdevbr/.github/blob/main/CODE_OF_CONDUCT.md
+
+[contributing]: https://github.com/docsdevbr/.github/blob/main/CONTRIBUTING.md
+
+[contributors]: https://github.com/docsdevbr/nginx-docs-pt-br/graphs/contributors
+
+[github-sponsors]: https://github.com/sponsors/docsdevbr
 
 [license]: LICENSES/BSD-2-Clause.txt
 
-[portal-link]: https://docs.dev.br/pt-br/docs/nginx/doc/
+[page]: https://pt.docs.dev.br/tech/n/nginx/index.html
 
-[readme-badge-en]: https://img.shields.io/badge/lang-en-blue.svg
+[readme-en]: README.EN.md
 
-[readme-badge-pt-br]: https://img.shields.io/badge/lang-pt--br-dark--green.svg
-
-[readme-lang-en]: README.EN.md
-
-[readme-lang-pt-br]: README.md
+[readme-pt-br]: README.md
 
 [reuse]: https://api.reuse.software/info/github.com/docsdevbr/nginx-docs-pt-br
 
-[sponsor-github]: https://github.com/sponsors/docsdevbr
-
-[sponsor-pix]: https://docs.dev.br/pt-br/support-us
+[sponsor]: https://pt.docs.dev.br/sponsor.html
