@@ -3,6 +3,7 @@
 [![Arquivo README em inglês][readme-badge-en]][readme-lang-en]
 [![Arquivo README em português brasileiro][readme-badge-pt-br]][readme-lang-pt-br]
 [![Licença: BSD-2-Clause][badge-license]][license]
+[![Status do REUSE][badge-reuse]][reuse]
 
 Tradução da Documentação do NGINX para português brasileiro.
 
@@ -21,6 +22,8 @@ A obra original foi traduzida do inglês para o português brasileiro.
 
 [badge-license]: https://img.shields.io/badge/license-BSD--2--Clause-blue
 
+[badge-reuse]: https://api.reuse.software/badge/github.com/docsdevbr/nginx-docs-pt-br
+
 [license]: LICENSES/BSD-2-Clause.txt
 
 [portal-link]: https://docs.dev.br/pt-br/docs/nginx/doc/
@@ -32,6 +35,8 @@ A obra original foi traduzida do inglês para o português brasileiro.
 [readme-lang-en]: README.EN.md
 
 [readme-lang-pt-br]: README.md
+
+[reuse]: https://api.reuse.software/info/github.com/docsdevbr/nginx-docs-pt-br
 
 [sponsor-github]: https://github.com/sponsors/docsdevbr
 

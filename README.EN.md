@@ -3,6 +3,7 @@
 [![README file in English][readme-badge-en]][readme-lang-en]
 [![README file in Brazilian Portuguese][readme-badge-pt-br]][readme-lang-pt-br]
 [![License: BSD-2-Clause][badge-license]][license]
+[![REUSE status][badge-reuse]][reuse]
 
 Translation of the NGINX Documentation into Brazilian Portuguese.
 
@@ -20,6 +21,8 @@ Documentation licensed under the [BSD 2-Clause License][license-bsd].
 
 [badge-license]: https://img.shields.io/badge/license-BSD--2--Clause-blue
 
+[badge-reuse]: https://api.reuse.software/badge/github.com/docsdevbr/nginx-docs-pt-br
+
 [license]: LICENSES/BSD-2-Clause.txt
 
 [portal-link]: https://docs.dev.br/pt-br/docs/nginx/doc/
@@ -31,6 +34,8 @@ Documentation licensed under the [BSD 2-Clause License][license-bsd].
 [readme-lang-en]: README.EN.md
 
 [readme-lang-pt-br]: README.md
+
+[reuse]: https://api.reuse.software/info/github.com/docsdevbr/nginx-docs-pt-br
 
 [sponsor-github]: https://github.com/sponsors/docsdevbr
 
