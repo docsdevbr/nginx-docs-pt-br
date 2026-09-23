@@ -14,7 +14,7 @@ Você pode apoiar o projeto através do [GitHub Sponsors][sponsor-github] ou
 ## Licença
 
 Copyright (c) 2002-2021 Igor Sysoev.<br>
-Copyright (c) 2011-2025 Nginx, Inc. Todos os direitos reservados.
+Copyright (c) 2011-2026 Nginx, Inc. Todos os direitos reservados.
 
 Documentação licenciada sob a [Licença BSD de 2 Cláusulas][license-bsd].<br>
 A obra original foi traduzida do inglês para o português brasileiro.

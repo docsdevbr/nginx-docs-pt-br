@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
 <!--
-Copyright (c) Maxim Dounin.
-Copyright (c) Nginx, Inc.
+SPDX-FileCopyrightText: Maxim Dounin.
+SPDX-FileCopyrightText: Nginx, Inc.
 
 SPDX-License-Identifier: BSD-2-Clause
 Documentation licensed under the BSD 2-Clause License.

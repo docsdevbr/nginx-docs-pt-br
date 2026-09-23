@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!--
-Copyright (c) Nginx, Inc.
+SPDX-FileCopyrightText: Nginx, Inc.
 
 SPDX-License-Identifier: BSD-2-Clause
 Documentation licensed under the BSD 2-Clause License.
@@ -3363,7 +3363,7 @@ For example, a simplistic module called <literal>ngx_foo_module</literal> might
 look like this:
 <programlisting>
 /*
- * Copyright (C) Author.
+ * SPDX-FileCopyrightText: Author.
  */
 
 
@@ -6920,8 +6920,8 @@ function definitions
 Copyright statements look like this:
 <programlisting>
 /*
- * Copyright (C) Author Name
- * Copyright (C) Organization, Inc.
+ * SPDX-FileCopyrightText: Author Name
+ * SPDX-FileCopyrightText: Organization, Inc.
  */
 </programlisting>
 If the file is modified significantly, the list of authors should be updated,

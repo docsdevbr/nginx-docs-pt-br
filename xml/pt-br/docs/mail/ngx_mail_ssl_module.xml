@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
 <!--
-Copyright (c) 2006, 2007 Anton Yuzhaninov.
-Copyright (c) Nginx, Inc.
+SPDX-FileCopyrightText: 2006, 2007 Anton Yuzhaninov.
+SPDX-FileCopyrightText: Nginx, Inc.
 
 SPDX-License-Identifier: BSD-2-Clause
 Documentation licensed under the BSD 2-Clause License.
