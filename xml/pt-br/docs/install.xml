@@ -8,8 +8,8 @@ The original work was translated from English into Brazilian Portuguese.
 https://github.com/docsdevbr/nginx-docs-pt-br/blob/-/LICENSES/BSD-2-Clause.txt
 
 source_url: https://github.com/nginx/nginx.org/blob/main/xml/en/docs/install.xml
-revision: b887e327769f16ea2774fea31fd742ac71280fdb
-status: ready
+source_revision: b887e327769f16ea2774fea31fd742ac71280fdb
+translation_status: ready
 -->
 
 <!DOCTYPE article SYSTEM "../../../dtd/article.dtd">
