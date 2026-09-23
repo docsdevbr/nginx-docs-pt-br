@@ -2,9 +2,10 @@
 Copyright (c) Igor Sysoev.
 Copyright (c) Nginx, Inc.
 
+SPDX-License-Identifier: BSD-2-Clause
 Documentation licensed under the BSD 2-Clause License.
 The original work was translated from English into Brazilian Portuguese.
-https://github.com/nginx/nginx.org/blob/-/text/LICENSE
+https://github.com/docsdevbr/nginx-docs-pt-br/blob/-/LICENSES/BSD-2-Clause.txt
 
 source_url: https://github.com/nginx/nginx.org/blob/main/xml/en/docs/debugging_log.xml
 revision: 66114e678f96178dfb2129b199fd2b7d6d8b15a2

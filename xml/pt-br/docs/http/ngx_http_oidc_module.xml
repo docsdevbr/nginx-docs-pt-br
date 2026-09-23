@@ -1,8 +1,13 @@
 <?xml version="1.0"?>
 
 <!--
-  Copyright (C) Nginx, Inc.
-  -->
+Copyright (c) Nginx, Inc.
+
+SPDX-License-Identifier: BSD-2-Clause
+Documentation licensed under the BSD 2-Clause License.
+The original work was translated from English into Brazilian Portuguese.
+https://github.com/docsdevbr/nginx-docs-pt-br/blob/-/LICENSES/BSD-2-Clause.txt
+-->
 
 <!DOCTYPE module SYSTEM "../../../../dtd/module.dtd">
 
@@ -310,7 +315,7 @@ The <literal>openid</literal> scope is always required by OIDC.
 Specifies a custom
 <link doc="ngx_http_keyval_module.xml" id="keyval_zone">key-value database</link>
 that stores session data.
-By default, an 8-megabyte key-value database named 
+By default, an 8-megabyte key-value database named
 <literal>oidc_default_store_&lt;provider name&gt;</literal>
 is created automatically.
 <note>
@@ -372,7 +377,7 @@ the certificates of the OpenID Provider endpoints.
 <para>
 Enables downloading of the
 <link url="https://openid.net/specs/openid-connect-core-1_0.html#UserInfo">UserInfo</link>
-data and makes UserInfo claims available via the 
+data and makes UserInfo claims available via the
 <link id="var_oidc_claim_">$oidc_claim_<literal>name</literal></link> variables.
 </para>
 

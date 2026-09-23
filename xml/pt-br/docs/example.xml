@@ -1,7 +1,12 @@
 <!--
-  Copyright (C) Igor Sysoev
-  Copyright (C) Nginx, Inc.
-  -->
+Copyright (c) Igor Sysoev.
+Copyright (c) Nginx, Inc.
+
+SPDX-License-Identifier: BSD-2-Clause
+Documentation licensed under the BSD 2-Clause License.
+The original work was translated from English into Brazilian Portuguese.
+https://github.com/docsdevbr/nginx-docs-pt-br/blob/-/LICENSES/BSD-2-Clause.txt
+-->
 
 <!DOCTYPE article SYSTEM "../../../dtd/article.dtd">
 

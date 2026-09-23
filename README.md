@@ -2,6 +2,7 @@
 
 [![Arquivo README em inglês][readme-badge-en]][readme-lang-en]
 [![Arquivo README em português brasileiro][readme-badge-pt-br]][readme-lang-pt-br]
+[![Licença: BSD-2-Clause][badge-license]][license]
 
 Tradução da Documentação do NGINX para português brasileiro.
 
@@ -18,7 +19,9 @@ Copyright (c) 2011-2025 Nginx, Inc. Todos os direitos reservados.
 Documentação licenciada sob a [Licença BSD de 2 Cláusulas][license-bsd].<br>
 A obra original foi traduzida do inglês para o português brasileiro.
 
-[license-bsd]: LICENSE
+[badge-license]: https://img.shields.io/badge/license-BSD--2--Clause-blue
+
+[license]: LICENSES/BSD-2-Clause.txt
 
 [portal-link]: https://docs.dev.br/pt-br/docs/nginx/doc/
 

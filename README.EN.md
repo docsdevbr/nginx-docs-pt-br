@@ -2,6 +2,7 @@
 
 [![README file in English][readme-badge-en]][readme-lang-en]
 [![README file in Brazilian Portuguese][readme-badge-pt-br]][readme-lang-pt-br]
+[![License: BSD-2-Clause][badge-license]][license]
 
 Translation of the NGINX Documentation into Brazilian Portuguese.
 
@@ -17,7 +18,9 @@ Copyright (c) 2011-2025 Nginx, Inc. All rights reserved.
 
 Documentation licensed under the [BSD 2-Clause License][license-bsd].
 
-[license-bsd]: LICENSE
+[badge-license]: https://img.shields.io/badge/license-BSD--2--Clause-blue
+
+[license]: LICENSES/BSD-2-Clause.txt
 
 [portal-link]: https://docs.dev.br/pt-br/docs/nginx/doc/
 

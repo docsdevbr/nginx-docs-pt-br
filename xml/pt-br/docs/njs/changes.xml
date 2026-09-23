@@ -1,8 +1,13 @@
 <?xml version="1.0"?>
 
 <!--
-  Copyright (C) Nginx, Inc.
-  -->
+Copyright (c) Nginx, Inc.
+
+SPDX-License-Identifier: BSD-2-Clause
+Documentation licensed under the BSD 2-Clause License.
+The original work was translated from English into Brazilian Portuguese.
+https://github.com/docsdevbr/nginx-docs-pt-br/blob/-/LICENSES/BSD-2-Clause.txt
+-->
 
 <!DOCTYPE article SYSTEM "../../../../dtd/article.dtd">
 
@@ -457,7 +462,7 @@ Previously, an exception was thrown when accessing
 <link doc="reference.xml" id="r_request_text"><literal>r.requestText</literal></link>
 or
 <link doc="reference.xml" id="r_request_buffer"><literal>r.requestBuffer</literal></link>
-if the size of the client request body exceeded 
+if the size of the client request body exceeded
 <link doc="../http/ngx_http_core_module.xml" id="client_body_buffer_size"><literal>client_body_buffer_size</literal></link>.
 </para>
 </listitem>
@@ -840,7 +845,7 @@ Feature:
 added optional <literal>nocache</literal> flag for the
 <literal>js_set</literal> directive for
 <link doc="../http/ngx_http_js_module.xml" id="js_set">http</link>
-and 
+and
 <link doc="../stream/ngx_stream_js_module.xml" id="js_set">stream</link>.
 Thanks to Thomas P.
 </para>

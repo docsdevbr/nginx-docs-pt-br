@@ -1,9 +1,14 @@
 <?xml version="1.0"?>
 
 <!--
-  Copyright (C) Yaroslav Zhuravlev
-  Copyright (C) Nginx, Inc.
-  -->
+Copyright (c) Yaroslav Zhuravlev.
+Copyright (c) Nginx, Inc.
+
+SPDX-License-Identifier: BSD-2-Clause
+Documentation licensed under the BSD 2-Clause License.
+The original work was translated from English into Brazilian Portuguese.
+https://github.com/docsdevbr/nginx-docs-pt-br/blob/-/LICENSES/BSD-2-Clause.txt
+-->
 
 <!DOCTYPE module SYSTEM "../../../../dtd/module.dtd">
 
